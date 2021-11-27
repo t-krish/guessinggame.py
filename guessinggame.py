@@ -11,6 +11,3 @@ while guessed == False:
     if guess == gno:
         print('CORRECT!!!')
         guessed = True
-
-
-#Completed Project
